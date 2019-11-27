@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\Unit Testing .NET Core 3\Calculation\Calculation\bin\Debug\netcoreapp3.0\Calculation.exe
+C:\Users\Hans.Gungadeen\Desktop\Unit Testing .NET Core 3\Calculation\Calculation\bin\Debug\netcoreapp3.0\Calculation.deps.json
+C:\Users\Hans.Gungadeen\Desktop\Unit Testing .NET Core 3\Calculation\Calculation\bin\Debug\netcoreapp3.0\Calculation.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\Unit Testing .NET Core 3\Calculation\Calculation\bin\Debug\netcoreapp3.0\Calculation.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\Unit Testing .NET Core 3\Calculation\Calculation\bin\Debug\netcoreapp3.0\Calculation.dll
+C:\Users\Hans.Gungadeen\Desktop\Unit Testing .NET Core 3\Calculation\Calculation\bin\Debug\netcoreapp3.0\Calculation.pdb
+C:\Users\Hans.Gungadeen\Desktop\Unit Testing .NET Core 3\Calculation\Calculation\obj\Debug\netcoreapp3.0\Calculation.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\Unit Testing .NET Core 3\Calculation\Calculation\obj\Debug\netcoreapp3.0\Calculation.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\Unit Testing .NET Core 3\Calculation\Calculation\obj\Debug\netcoreapp3.0\Calculation.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\Unit Testing .NET Core 3\Calculation\Calculation\obj\Debug\netcoreapp3.0\Calculation.dll
+C:\Users\Hans.Gungadeen\Desktop\Unit Testing .NET Core 3\Calculation\Calculation\obj\Debug\netcoreapp3.0\Calculation.pdb
